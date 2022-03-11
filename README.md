@@ -1,5 +1,7 @@
 # Mentalista
 
+![Mentalista - Brave](https://user-images.githubusercontent.com/88933480/157974452-a8bd1d0e-6b39-40e4-b5c6-783eb8f714e9.jpg)
+
 Projeto desenvolvido na aula de  Imersão Dev da Alura.
 
 Desafio:
